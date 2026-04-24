@@ -31,8 +31,6 @@ Spring 기반으로 성능과 원리를 함께 고민하며 백엔드 개발을 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-4CAF50?style=flat-square&logo=thymeleaf&logoColor=white)
 
 ---
 
@@ -44,6 +42,22 @@ Spring 기반으로 성능과 원리를 함께 고민하며 백엔드 개발을 
 - **Spring Batch 설계**: Chunk 1,000건 단위로 **100만 건 데이터 안정 처리**
 - **MSA 인증 구조**: Gateway/Auth Server 분리 설계, Spring Security 커스텀 필터 구현
 - **테스트 커버리지 71.2%** 달성 (JUnit5, Mockito)
+
+---
+
+### Projects
+
+**[Daiso Books](https://github.com/nhnacademy-be12-daiso) · [Demo](https://www.daiso-book.shop/)**
+
+> MSA 기반 도서 이커머스 플랫폼 (2025. 11 ~ 2025. 12, 7인)
+
+**담당**: 회원 서비스 전체 설계/개발 (60.6% 기여) · Batch 공동 개발 (49.1% 기여)
+
+**[Servlet-JSP Shoppingmall](https://github.com/jin000oo/servlet-jsp-shoppingmall)**
+
+> 프레임워크 없이 MVC · 트랜잭션 구현 (2026. 03, 2인)
+
+**담당**: 장바구니 · 결제 서비스
 
 ---
 
@@ -59,19 +73,3 @@ Spring 기반으로 성능과 원리를 함께 고민하며 백엔드 개발을 
 
 ![SQLD](https://img.shields.io/badge/SQLD-2026.03-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![TOPCIT](https://img.shields.io/badge/TOPCIT-Level_3-6DB33F?style=flat-square)
-
----
-
-### Projects
-
-**[Daiso Books](https://github.com/nhnacademy-be12-daiso) · [Demo](https://www.daiso-book.shop/)**
-
-> MSA 기반 도서 이커머스 플랫폼 (2025. 11 ~ 2025. 12, 7인)
-
-**담당**: 회원 서비스 주담당 (60.6% 기여) · Batch 공동 개발 (49.1% 기여)
-
-**[Servlet-JSP Shoppingmall](https://github.com/jin000oo/servlet-jsp-shoppingmall)**
-
-> 프레임워크 없이 MVC · 트랜잭션 구현 (2026. 03, 2인)
->
-**담당**: 장바구니 · 결제 서비스
